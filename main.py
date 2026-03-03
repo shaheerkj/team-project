@@ -1,3 +1,4 @@
+# added a comment
 import hashlib
 
 # Simulated database (in real apps, this would be a real DB)
